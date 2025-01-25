@@ -1,1 +1,1 @@
-# JavaScript Review Project by JethroMata
+# JavaScript Review Project by Jethro Mata
